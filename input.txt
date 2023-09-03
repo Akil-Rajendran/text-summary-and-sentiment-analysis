@@ -1,0 +1,21 @@
+Following the success of India's moon landing, the country's space agency ISRO launched a rocket on Saturday to study the sun in its first solar mission, Aditya-L1.
+
+The rocket left a trail of smoke and fire as scientists clapped, a live broadcast on the Indian Space Research Organisation's (ISRO) website showed. 
+
+The broadcast was watched by nearly 5,00,000 viewers, while thousands gathered at a viewing gallery near the launch site to see the lift-off of the probe, which will aim to study solar winds, which can cause disturbance on earth commonly seen as auroras.
+
+Named after the Hindi word for the sun, the Aditya-L1 launch follows India beating Russia late last month to become the first country to land on the south pole of the moon. While Russia had a more powerful rocket, India's Chandrayaan-3 out-endured the Luna-25 to execute a textbook landing.
+
+The Aditya-L1 spacecraft is designed to travel about 1.5 million km over four months to a kind of parking lot in space where objects tend to stay put because of balancing gravitational forces, reducing fuel consumption for the spacecraft.
+
+Those positions are called Lagrange Points, named after Italian-French mathematician Joseph-Louis Lagrange. 
+
+The mission has the capacity to make a "big bang in terms of science," said Somak Raychaudhury, who was involved in the development of some components of the observatory, adding that energy particles emitted by the sun can hit satellites that control communications on earth. 
+
+"There have been episodes when major communications have gone down because a satellite has been hit by a big corona emission. Satellites in low earth orbit are the main focus of global private players, which makes the Aditya L1 mission a very important project," he said. 
+
+Scientists hope to learn more about the effect of solar radiation on the thousands of satellites in orbit, a number growing with the success of ventures like the Starlink communications network of Elon Musk's SpaceX.
+
+"The low earth orbit has been heavily polluted due to private participation, so understanding how to safeguard satellites there will have special importance in today's space environment," said Rama Rao Nidamanuri, head of the department of earth and space sciences at the Indian Institute of Space Science and Technology.
+
+Longer term, data from the mission could help better understand the sun's impact on earth's climate patterns and the origins of solar wind, the stream of particles that flow from the sun through the solar system, ISRO scientists have said.
